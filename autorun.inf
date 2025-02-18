@@ -1,0 +1,6 @@
+[autorun]
+label=Backup-Disk
+open=sha1sum_all_zip_files_in_this_folder_write_sha1sum_folder_2.com
+
+[autorun.alpha]
+open=sha1sum_all_zip_files_in_this_folder_write_sha1sum_folder_2.com
